@@ -1,0 +1,26 @@
+[
+    {
+        "Column":"Name",
+        "Null Count":0,
+        "Null Percentage":0.0,
+        "Severity":"No Missing"
+    },
+    {
+        "Column":"Age",
+        "Null Count":0,
+        "Null Percentage":0.0,
+        "Severity":"No Missing"
+    },
+    {
+        "Column":"City",
+        "Null Count":0,
+        "Null Percentage":0.0,
+        "Severity":"No Missing"
+    },
+    {
+        "Column":"Salary",
+        "Null Count":0,
+        "Null Percentage":0.0,
+        "Severity":"No Missing"
+    }
+]
