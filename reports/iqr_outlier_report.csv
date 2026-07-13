@@ -1,0 +1,3 @@
+Column,Lower Bound,Upper Bound,Outlier Count
+Age,17.25,29.25,1
+Salary,-293125.0,595875.0,2

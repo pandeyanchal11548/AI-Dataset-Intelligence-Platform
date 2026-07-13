@@ -1,0 +1,10 @@
+[
+    {
+        "Column":"Age",
+        "Outlier Count":0
+    },
+    {
+        "Column":"Salary",
+        "Outlier Count":0
+    }
+]
