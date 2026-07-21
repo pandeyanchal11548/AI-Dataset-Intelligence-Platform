@@ -1,12 +1,13 @@
 
 import numpy as np
+import pandas as pd
 
 # -----------------------------
 # Load Dataset
 # -----------------------------
-from utils.common import load_dataset
 
-df = load_dataset()
+
+df = pd.read_csv("data/sample.csv")
 print("\n========== DATA QUALITY SCORING SYSTEM ==========\n")
 
 # -----------------------------

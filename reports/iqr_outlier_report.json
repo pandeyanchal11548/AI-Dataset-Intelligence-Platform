@@ -1,14 +1,14 @@
 [
     {
         "Column":"Age",
-        "Lower Bound":17.25,
-        "Upper Bound":29.25,
-        "Outlier Count":1
+        "Lower Bound":16.0,
+        "Upper Bound":40.0,
+        "Outlier Count":0
     },
     {
         "Column":"Salary",
-        "Lower Bound":-293125.0,
-        "Upper Bound":595875.0,
-        "Outlier Count":2
+        "Lower Bound":12125.0,
+        "Upper Bound":97125.0,
+        "Outlier Count":0
     }
 ]

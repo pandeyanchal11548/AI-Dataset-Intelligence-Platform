@@ -1,11 +1,11 @@
 Metric,Value
 Missing Values,0
 Missing Percentage,0.0
-Duplicate Rows,2
-Duplicate Percentage,25.0
-Outliers,3
-Outlier Percentage,9.38
+Duplicate Rows,0
+Duplicate Percentage,0.0
+Outliers,0
+Outlier Percentage,0.0
 Consistency Issues,0
 Consistency Percentage,0.0
-Final Score,92.19
+Final Score,100.0
 Grade,Excellent

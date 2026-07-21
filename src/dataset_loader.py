@@ -1,7 +1,7 @@
 import pandas as pd
 import os
 
-file_path = "data/sample.xlsx"
+file_path = "data/sample.csv"
 
 # Check if file exists
 if not os.path.exists(file_path):
