@@ -1,0 +1,21 @@
+===== FEATURE RECOMMENDATION ENGINE =====
+
+DROP COLUMN SUGGESTIONS
+--------------------------
+
+ENCODE COLUMN SUGGESTIONS
+--------------------------
+Name -> Encode this column
+City -> Encode this column
+
+SCALE COLUMN SUGGESTIONS
+--------------------------
+Age -> Scale this column
+Salary -> Scale this column
+
+HIGH IMPORTANCE FEATURES
+--------------------------
+Name
+Age
+City
+Salary
