@@ -1,0 +1,39 @@
+===== AUTOMATED EDA REPORT =====
+
+DATASET SUMMARY
+----------------------
+Rows : 8
+Columns : 4
+
+COLUMN NAMES
+----------------------
+Name
+Age
+City
+Salary
+
+MISSING VALUES
+----------------------
+Name      0
+Age       0
+City      0
+Salary    0
+dtype: int64
+
+NUMERICAL SUMMARY
+----------------------
+             Age         Salary
+count   8.000000       8.000000
+mean   29.125000  252127.500000
+std    17.033056  400177.244721
+min    21.000000      20.000000
+25%    21.750000   40250.000000
+50%    23.500000   45000.000000
+75%    24.750000  262500.000000
+max    71.000000  900000.000000
+
+INSIGHTS
+----------------------
+No missing values found.
+Charts are available in the reports folder.
+Correlation heatmap is available in the reports folder.
