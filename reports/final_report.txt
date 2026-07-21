@@ -1,0 +1,125 @@
+===== FINAL DATASET REPORT =====
+
+---------------------------------
+reports/summary.csv
+---------------------------------
+Metric,Value
+Row Count,3
+Column Count,4
+Missing Values,0
+Duplicate Rows,0
+
+
+---------------------------------
+reports/data_quality_score.csv
+---------------------------------
+Metric,Value
+Missing Values,0
+Missing Percentage,0.0
+Duplicate Rows,2
+Duplicate Percentage,25.0
+Outliers,3
+Outlier Percentage,9.38
+Consistency Issues,0
+Consistency Percentage,0.0
+Final Score,92.19
+Grade,Excellent
+
+
+---------------------------------
+reports/eda_report.txt
+---------------------------------
+===== AUTOMATED EDA REPORT =====
+
+DATASET SUMMARY
+----------------------
+Rows : 8
+Columns : 4
+
+COLUMN NAMES
+----------------------
+Name
+Age
+City
+Salary
+
+MISSING VALUES
+----------------------
+Name      0
+Age       0
+City      0
+Salary    0
+dtype: int64
+
+NUMERICAL SUMMARY
+----------------------
+             Age         Salary
+count   8.000000       8.000000
+mean   29.125000  252127.500000
+std    17.033056  400177.244721
+min    21.000000      20.000000
+25%    21.750000   40250.000000
+50%    23.500000   45000.000000
+75%    24.750000  262500.000000
+max    71.000000  900000.000000
+
+INSIGHTS
+----------------------
+No missing values found.
+Charts are available in the reports folder.
+Correlation heatmap is available in the reports folder.
+
+
+---------------------------------
+reports/feature_recommendation.txt
+---------------------------------
+===== FEATURE RECOMMENDATION ENGINE =====
+
+DROP COLUMN SUGGESTIONS
+--------------------------
+
+ENCODE COLUMN SUGGESTIONS
+--------------------------
+Name -> Encode this column
+City -> Encode this column
+
+SCALE COLUMN SUGGESTIONS
+--------------------------
+Age -> Scale this column
+Salary -> Scale this column
+
+HIGH IMPORTANCE FEATURES
+--------------------------
+Name
+Age
+City
+Salary
+
+
+---------------------------------
+reports/feature_correlation_report.txt
+---------------------------------
+===== FEATURE CORRELATION ANALYZER =====
+
+HIGHLY CORRELATED FEATURES
+----------------------------
+
+REDUNDANT COLUMNS
+----------------------------
+No redundant columns found.
+
+
+---------------------------------
+reports/ml_readiness_report.txt
+---------------------------------
+===== ML READINESS SCORE =====
+
+Data Completeness : 100.0%
+
+Feature Quality : 50.0%
+
+Noise Level : 25.0%
+
+Final ML Readiness Score : 75.0/100
+
+
