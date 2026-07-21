@@ -1,0 +1,8 @@
+===== FEATURE CORRELATION ANALYZER =====
+
+HIGHLY CORRELATED FEATURES
+----------------------------
+
+REDUNDANT COLUMNS
+----------------------------
+No redundant columns found.
